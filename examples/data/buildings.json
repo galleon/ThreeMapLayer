@@ -1,24 +1,5 @@
 [{
   "height": 147,
-  "type": "Feature",
-  "id": "relation/1682010",
-  "properties": {
-    "timestamp": "2017-01-30T15:25:36Z",
-    "version": "8",
-    "changeset": "45654898",
-    "user": "overflorian",
-    "uid": "125897",
-    "aeroway": "terminal",
-    "building": "yes",
-    "layer": "1",
-    "level": "0;1;2",
-    "name": "Hall D",
-    "note": "Approximate contour of new terminal (April 2010)",
-    "ref": "D",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-    "type": "multipolygon",
-    "id": "relation/1682010"
-  },
   "polygon": [
         [ 1.370137, 43.632667 ],
         [ 1.370115, 43.632671 ],
@@ -213,25 +194,6 @@
 },
 {
   "height": 147,
-  "type": "Feature",
-  "id": "relation/1682010",
-  "properties": {
-    "timestamp": "2017-01-30T15:25:36Z",
-    "version": "8",
-    "changeset": "45654898",
-    "user": "overflorian",
-    "uid": "125897",
-    "aeroway": "terminal",
-    "building": "yes",
-    "layer": "1",
-    "level": "0;1;2",
-    "name": "Hall D",
-    "note": "Approximate contour of new terminal (April 2010)",
-    "ref": "D",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-    "type": "multipolygon",
-    "id": "relation/1682010"
-  },
   "polygon": [
         [ 1.370912, 43.63192 ],
         [ 1.371025, 43.631923 ],
@@ -257,25 +219,6 @@
 },
 {
   "height": 147,
-  "type": "Feature",
-  "id": "relation/1682010",
-  "properties": {
-    "timestamp": "2017-01-30T15:25:36Z",
-    "version": "8",
-    "changeset": "45654898",
-    "user": "overflorian",
-    "uid": "125897",
-    "aeroway": "terminal",
-    "building": "yes",
-    "layer": "1",
-    "level": "0;1;2",
-    "name": "Hall D",
-    "note": "Approximate contour of new terminal (April 2010)",
-    "ref": "D",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-    "type": "multipolygon",
-    "id": "relation/1682010"
-  },
   "polygon": [
         [ 1.370467, 43.632026 ],
         [ 1.370506, 43.632008 ],
@@ -298,25 +241,6 @@
 }, 
 {
   "height": 147,
-  "type": "Feature",
-  "id": "relation/1682010",
-  "properties": {
-    "timestamp": "2017-01-30T15:25:36Z",
-    "version": "8",
-    "changeset": "45654898",
-    "user": "overflorian",
-    "uid": "125897",
-    "aeroway": "terminal",
-    "building": "yes",
-    "layer": "1",
-    "level": "0;1;2",
-    "name": "Hall D",
-    "note": "Approximate contour of new terminal (April 2010)",
-    "ref": "D",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-    "type": "multipolygon",
-    "id": "relation/1682010"
-  },
   "polygon": [
         [ 1.370174, 43.632293 ],
         [ 1.370192, 43.632261 ],
@@ -341,25 +265,6 @@
 },
 {
   "height": 147,
-  "type": "Feature",
-  "id": "relation/1682010",
-  "properties": {
-    "timestamp": "2017-01-30T15:25:36Z",
-    "version": "8",
-    "changeset": "45654898",
-    "user": "overflorian",
-    "uid": "125897",
-    "aeroway": "terminal",
-    "building": "yes",
-    "layer": "1",
-    "level": "0;1;2",
-    "name": "Hall D",
-    "note": "Approximate contour of new terminal (April 2010)",
-    "ref": "D",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-    "type": "multipolygon",
-    "id": "relation/1682010"
-  },
   "polygon": [
         [ 1.370127, 43.632632 ],
         [ 1.370124, 43.632623 ],
@@ -383,25 +288,6 @@
 },
 {
   "height": 147,
-  "type": "Feature",
-  "id": "relation/1682010",
-  "properties": {
-    "timestamp": "2017-01-30T15:25:36Z",
-    "version": "8",
-    "changeset": "45654898",
-    "user": "overflorian",
-    "uid": "125897",
-    "aeroway": "terminal",
-    "building": "yes",
-    "layer": "1",
-    "level": "0;1;2",
-    "name": "Hall D",
-    "note": "Approximate contour of new terminal (April 2010)",
-    "ref": "D",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-    "type": "multipolygon",
-    "id": "relation/1682010"
-  },
   "polygon": [
         [ 1.371068, 43.632248 ],
         [ 1.371137, 43.632286 ],
@@ -425,23 +311,6 @@
 },
 {
   "height": 147,
-  "type": "Feature",
-  "id": "relation/3769834",
-  "properties": {
-    "timestamp": "2014-05-25T08:11:03Z",
-    "version": "1",
-    "changeset": "22537925",
-    "user": "lenny32",
-    "uid": "1101497",
-    "amenity": "parking",
-    "building": "yes",
-    "capacity": "2525",
-    "fee": "yes",
-    "name": "P1",
-    "parking": "multi-storey",
-    "type": "multipolygon",
-    "id": "relation/3769834"
-  },
   "polygon": [
         [ 1.3739964, 43.6317395 ],
         [ 1.3740713, 43.6317801 ],
@@ -482,23 +351,6 @@
 }, 
 {
   "height": 147,
-  "type": "Feature",
-  "id": "relation/3769834",
-  "properties": {
-    "timestamp": "2014-05-25T08:11:03Z",
-    "version": "1",
-    "changeset": "22537925",
-    "user": "lenny32",
-    "uid": "1101497",
-    "amenity": "parking",
-    "building": "yes",
-    "capacity": "2525",
-    "fee": "yes",
-    "name": "P1",
-    "parking": "multi-storey",
-    "type": "multipolygon",
-    "id": "relation/3769834"
-  },
   "polygon": [
         [ 1.373656, 43.631996 ],
         [ 1.373735, 43.632039 ],
@@ -509,19 +361,6 @@
 },
 {
   "height": 147,
-  "type": "Feature",
-  "id": "way/64411580",
-  "properties": {
-    "timestamp": "2010-06-27T10:14:01Z",
-    "version": "1",
-    "changeset": "5087957",
-    "user": "Pinpin",
-    "uid": "1685",
-    "building": "yes",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-    "wall": "no",
-    "id": "way/64411580"
-  },
   "polygon": [
         [ 1.3738767, 43.6316755 ],
         [ 1.3738657, 43.6316696 ],
@@ -532,23 +371,7 @@
 },
 {
   "height": 147,
-  "type": "Feature",
-  "id": "way/64416040",
-  "properties": {
-    "timestamp": "2010-06-27T10:17:45Z",
-    "version": "1",
-    "changeset": "5087957",
-    "user": "Pinpin",
-    "uid": "1685",
-    "building": "yes",
-    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
-    "wall": "no",
-    "id": "way/64416040"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
+  "polygon": [
         [
           1.373544,
           43.6320023
@@ -569,9 +392,7 @@
           1.373544,
           43.6320023
         ]
-      ]
-    ]
-  }
+  ]
 },
 {
   "height": 200,
